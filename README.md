@@ -4,6 +4,6 @@ Created using REACT.JS, JAVASCRIPT, HTML, CSS(Tailwind CSS)
 
 ## To run the project follow the instruction below:
 
-- step-1 :
+- step-1 : ### `npm i`
 
-- step-2 : 
+- step-2 : ### `npm run dev`
