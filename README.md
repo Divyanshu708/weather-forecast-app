@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-Created using REACT.JS, JAVASCRIPT, HTML, CSS(Tailwind CSS)
+Created using REACT(Redux), JAVASCRIPT, HTML, CSS(Tailwind CSS)
 
 ## To run the project follow the instruction below:
 
