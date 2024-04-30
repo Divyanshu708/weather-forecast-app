@@ -10,4 +10,7 @@ Step-1 :
 Step-2 : 
 ### `npm run dev`
 
+Step-3 :
+Allow your location on locahost page to render your location with weather Info.
+
 Now you can Explore the project (Only for Educational Purposes!)
