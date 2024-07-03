@@ -15,7 +15,7 @@ const RenderData = memo(function () {
         <ErrorPage />
       ) : (
         <>
-          <div className="flex w-full justify-between mr-10 -mt-0 sm:-mt-5 md:mt-2 xl:-mt-2">
+          <div className="flex w-full justify-between mr-10 -mt-1 sm:-mt-5 md:mt-2 xl:-mt-2">
             <RenderCity />
 
             <DayOrNight className={`scale-100 mr-10 drop-shadow-xl`} />
